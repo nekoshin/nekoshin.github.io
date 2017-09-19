@@ -156,13 +156,21 @@ nav li {
 	margin: 0 40px;
 }
 
-
+header {
+    margin-bottom: 1em;
+    border-bottom: 1px solid rgb(140,113, 90);
+}
 
 footer {
-	height: 120px;            /* 縦の幅を120px */
-	position: absolute;       /* 絶対位置指定することを定義 */
-	bottom: 0px;              /* 絶対位置指定(左0px,下0px) */
+	height: 120px;
+	position: absolute;  
+	bottom: 0px;             
 	border-top: 1px solid rgb(168,194,204);
+}
+
+article {
+    border: 1px solid rgb(242,179,191);
+    border-radius: 4px;
 }
 
 
