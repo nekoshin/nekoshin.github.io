@@ -3,138 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://nekoshin.net/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>http://info.nekoshin.net/posts/latest-information/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nekoshin.net/posts/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>http://info.nekoshin.net/categories/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nekoshin.net/portfolio/dera/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <loc>http://info.nekoshin.net/categories/info/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nekoshin.net/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <loc>http://info.nekoshin.net/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nekoshin.net/portfolio/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <loc>http://info.nekoshin.net/about/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nekoshin.net/portfolio/hyde-hyde/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+    <loc>http://info.nekoshin.net/posts/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nekoshin.net/portfolio/laramod/</loc>
-    <lastmod>2018-01-19T00:00:00+00:00</lastmod>
+    <loc>http://info.nekoshin.net/categories/event/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nekoshin.net/categories/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>http://info.nekoshin.net/portfolio/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nekoshin.net/tags/css/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>http://info.nekoshin.net/tags/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nekoshin.net/categories/development/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>http://info.nekoshin.net/portfolio/usaria3/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nekoshin.net/tags/html/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>http://info.nekoshin.net/tags/%E3%83%91%E3%82%BA%E3%83%89%E3%83%A9/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nekoshin.net/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nekoshin.net/categories/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nekoshin.net/posts/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nekoshin.net/tags/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nekoshin.net/tags/theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nekoshin.net/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nekoshin.net/posts/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nekoshin.net/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nekoshin.net/posts/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nekoshin.net/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nekoshin.net/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nekoshin.net/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nekoshin.net/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nekoshin.net/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nekoshin.net/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nekoshin.net/tags/migration/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>http://info.nekoshin.net/portfolio/silence/</loc>
+    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio on NEKOSHIN</title>
-    <link>http://info.nekoshin.net/portfolio/</link>
-    <description>Recent content in Portfolio on NEKOSHIN</description>
+    <title>Event on NEKOSHIN</title>
+    <link>http://info.nekoshin.net/categories/event/</link>
+    <description>Recent content in Event on NEKOSHIN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://info.nekoshin.net/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://info.nekoshin.net/categories/event/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -2,39 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on NEKOSHIN</title>
-    <link>http://nekoshin.net/categories/</link>
+    <link>http://info.nekoshin.net/categories/</link>
     <description>Recent content in Categories on NEKOSHIN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://nekoshin.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://info.nekoshin.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>http://nekoshin.net/categories/development/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Info</title>
+      <link>http://info.nekoshin.net/categories/info/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://nekoshin.net/categories/development/</guid>
+      <guid>http://info.nekoshin.net/categories/info/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>http://nekoshin.net/categories/hugo/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Event</title>
+      <link>http://info.nekoshin.net/categories/event/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://nekoshin.net/categories/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>http://nekoshin.net/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://nekoshin.net/categories/golang/</guid>
+      <guid>http://info.nekoshin.net/categories/event/</guid>
       <description></description>
     </item>
     
