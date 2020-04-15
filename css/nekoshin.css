@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'deliusregular';
+    src: url('../font/delius-regular.eot');
+    src: url('../font/delius-regular.eot?#iefix') format('embedded-opentype'),
+         url('../font/delius-regular-webfont.woff2') format('woff2'),
+         url('../font/delius-regular-webfont.woff') format('woff'),
+         url('../font/delius-regular.ttf') format('truetype'),
+         url('../font/delius-regular.svg#deliusregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+*, p {
+    font-family: 'deliusregular';
+}
+
+/* color set 1 */
+span#c1-1 {background-color: rgb(242,179,191);}
+span#c1-2 {background-color: rgb(242,242,242);}
+span#c1-3 {background-color: rgb(186,217,208);}
+span#c1-4 {background-color: rgb(140,113, 90);}
+span#c1-5{ background-color: rgb(217,132,132);}
+
+
+/* color set 2 */
+span#c2-1 {background-color: rgb(168,194,204);}
+span#c2-2 {background-color: rgb( 77,133,153);}
+span#c2-3 {background-color: rgb(215,255,244);}
+span#c2-4 {background-color: rgb(255,230,228);}
+span#c2-5 {background-color: rgb(204,137,152);}
+
+/* color set 3 */
+span#c3-1 {background-color: rgb( 76, 60, 51);}
+span#c3-2 {background-color: rgb( 81,185,189);}
+span#c3-3 {background-color: rgb(150,213,215);}
+span#c3-4 {background-color: rgb(255,171,184);}
+span#c3-5 {background-color: rgb(255,116,138);}
+
+
+@media (min-width: 768px) {
+    .site__title {
+        font-size: 2.4rem;
+    }
+    .sidebar {
+        background-image: url("../image/background.png");
+    }
+}
