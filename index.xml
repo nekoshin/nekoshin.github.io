@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NEKOSHIN</title>
-    <link>http://info.nekoshin.net/</link>
+    <link>http://www.nekoshin.net/</link>
     <description>Recent content on NEKOSHIN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://info.nekoshin.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.nekoshin.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Latest information</title>
-      <link>http://info.nekoshin.net/posts/latest-information/</link>
+      <link>http://www.nekoshin.net/posts/latest-information/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://info.nekoshin.net/posts/latest-information/</guid>
+      <guid>http://www.nekoshin.net/posts/latest-information/</guid>
       <description>最近の活動について 現在は、イベント参加をお休み中です。 コミケ100や、パズドラの次回のオンリーイベントあたりには参加したいな、と思っています。
 いまは細々とイラスト描いています。</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://info.nekoshin.net/about/</link>
+      <link>http://www.nekoshin.net/about/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://info.nekoshin.net/about/</guid>
+      <guid>http://www.nekoshin.net/about/</guid>
       <description>NEKOSHIN 主にゲームのイラスト／漫画を描いている、大槻とおるの個人サークルです。
 主なジャンルは下記です。
  Puzzle and Dragons Tales シリーズ 星界の紋章／戦旗  Contact Me  Twitter Pixiv  何か質問ありましたら、マシュマロでも 受け付けています。</description>
@@ -34,20 +34,20 @@
     
     <item>
       <title>うさぎの龍契士さん３</title>
-      <link>http://info.nekoshin.net/portfolio/usaria3/</link>
+      <link>http://www.nekoshin.net/portfolio/usaria3/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://info.nekoshin.net/portfolio/usaria3/</guid>
+      <guid>http://www.nekoshin.net/portfolio/usaria3/</guid>
       <description>Puzzle and Dragons オンリーイベント『極限パズドラッシュ！！』COMBO4向けの新刊になります。
 サリア中心にガディウスとか、イルミナの謎カフェネタとか。</description>
     </item>
     
     <item>
       <title>Silence!</title>
-      <link>http://info.nekoshin.net/portfolio/silence/</link>
+      <link>http://www.nekoshin.net/portfolio/silence/</link>
       <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://info.nekoshin.net/portfolio/silence/</guid>
+      <guid>http://www.nekoshin.net/portfolio/silence/</guid>
       <description>Puzzle and Dragons オンリーイベント『極限パズドラッシュ！！』COMBO3向けの新刊表紙です。
 パズドラストーリーで、イルミナの書庫にいるメンバーの漫画になります。 イルミナ、ガディウス、サリア中心。</description>
     </item>

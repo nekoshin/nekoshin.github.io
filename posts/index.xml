@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on NEKOSHIN</title>
-    <link>http://info.nekoshin.net/posts/</link>
+    <link>http://www.nekoshin.net/posts/</link>
     <description>Recent content in Posts on NEKOSHIN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://info.nekoshin.net/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.nekoshin.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Latest information</title>
-      <link>http://info.nekoshin.net/posts/latest-information/</link>
+      <link>http://www.nekoshin.net/posts/latest-information/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://info.nekoshin.net/posts/latest-information/</guid>
+      <guid>http://www.nekoshin.net/posts/latest-information/</guid>
       <description>最近の活動について 現在は、イベント参加をお休み中です。 コミケ100や、パズドラの次回のオンリーイベントあたりには参加したいな、と思っています。
 いまは細々とイラスト描いています。</description>
     </item>
